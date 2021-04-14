@@ -18,7 +18,7 @@
          ·
          <span>
              <img src="assets/rss-solid.svg" width="18px">
-             <a href="https://www.cnblogs.com/wenshun/">My Blog</a>
+             <a href="https://www.cnblogs.com/wenshun/">Blog</a>
          </span>
      </div>
  </center>
@@ -28,7 +28,7 @@
 
  - 男，1981 年12月24日出生
  - 求职意向：Java 高级工程师/架构师
- - 工作经验：10 年以上（校招可不填）
+ - 工作经验：10 年以上
  - 期望薪资：35k
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
@@ -75,7 +75,7 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **XXXX 项目**
+- **TODO XXXX 项目**
 
   *使用到的技术*
 
